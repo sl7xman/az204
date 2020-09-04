@@ -4,16 +4,23 @@
 
 <table>
     <tr>
-        <td  colspan="4">1
-        </td>
+        <td  colspan="4" color="red"> azue的责任共享模型 </td>
     </tr>
     <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
+        <td>本地私有云</td>
+        <td>IAAS</td>
+        <td>PAAS</td>
+        <td>SAAS</td>
     </tr>
     <tr>
-        <td>2</td>
+        <td color="black">Data&Access</td>
+        <td color="black">应用</td>
+        <td>运行时</td>
+        <td>操作系统</td>
+        <td>虚拟机</td>
+        <td>存储</td>
+        <td>计算</td>
+        <td>网络</td>
     </tr>
 </table>
 
