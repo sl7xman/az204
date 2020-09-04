@@ -13,13 +13,27 @@
         <td>SAAS</td>
     </tr>
     <tr>
-        <td color="black">Data&Access</td>
+        <td background="black">Data&Access</td>
+    </tr>
+    <tr>
         <td color="black">应用</td>
+    </tr>
+    <tr>
         <td>运行时</td>
+    </tr>
+    <tr>
         <td>操作系统</td>
+    </tr>
+    <tr>
         <td>虚拟机</td>
+    </tr>
+    <tr>
         <td>存储</td>
+    </tr>
+    <tr>
         <td>计算</td>
+    </tr>
+    <tr>
         <td>网络</td>
     </tr>
 </table>
