@@ -13,27 +13,51 @@
         <td>SAAS</td>
     </tr>
     <tr>
-        <td bgcolor="#00FF00">Data&Access</td>
+        <td>Data&Access</td>
+        <td>Data&Access</td>
+        <td>Data&Access</td>
+        <td>Data&Access</td>
     </tr>
     <tr>
-        <td color="black">应用</td>
+        <td>应用</td>
+        <td>应用</td>
+        <td>应用</td>
+        <td>应用</td>
     </tr>
     <tr>
+        <td>运行时</td>
+        <td>运行时</td>
+        <td>运行时</td>
         <td>运行时</td>
     </tr>
     <tr>
         <td>操作系统</td>
+        <td>操作系统</td>
+        <td>操作系统</td>
+        <td>操作系统</td>
     </tr>
     <tr>
+        <td>虚拟机</td>
+        <td>虚拟机</td>
+        <td>虚拟机</td>
         <td>虚拟机</td>
     </tr>
     <tr>
         <td>存储</td>
+        <td>存储</td>
+        <td>存储</td>
+        <td>存储</td>
     </tr>
     <tr>
         <td>计算</td>
+        <td>计算</td>
+        <td>计算</td>
+        <td>计算</td>
     </tr>
     <tr>
+        <td>网络</td>
+        <td>网络</td>
+        <td>网络</td>
         <td>网络</td>
     </tr>
 </table>
