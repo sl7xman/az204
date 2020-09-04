@@ -4,7 +4,7 @@
 
 <table>
     <tr>
-        <td  colspan="4" color="red"> azue的责任共享模型 </td>
+        <td  colspan="4" bgcolor="Red"> azue的责任共享模型 </td>
     </tr>
     <tr>
         <td>本地私有云</td>
