@@ -184,4 +184,24 @@
 ASE专用于单个订阅：最多100个实例。
 
 
+# 基于linux容器的web app
 
+部署“直接容器化成应用服务的web应用”的应用和解决方案：
+
+    简化部署
+    使用以下方法与已有的容器流相匹配:基于DockerHub的CI/CD、ACR、Github
+    与已有应用服务特性兼容:自动扩展、部署槽等
+## 容器可以从现有的注册表获得:
+
+### Docker Hub
+    
+    部署已在DockerHub上共享的镜像
+    部署流行的官方镜像
+    专用镜像可以在DockerHub上使用
+
+### ACR
+
+    为托管的Docker镜像进行管理
+    可以部署到Docker Swarm、K8S或用于容器的Web应用
+
+### ACR
